@@ -1,4 +1,4 @@
-import { createContext, useReducer, Dispatch, ReactNode } from "react";
+import React, { createContext, useReducer, Dispatch, ReactNode } from "react";
 
 // Define types for workouts and state
 type WorkOuts = {
