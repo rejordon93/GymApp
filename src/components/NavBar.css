@@ -1,0 +1,13 @@
+/* src/components/NavBar.css */
+.navbar {
+  background: none !important; /* No background color */
+  border: none; /* Remove border if needed */
+}
+
+.navbar .gym-item {
+  font-weight: bold; /* Optional: make the GYM item stand out */
+}
+
+.navbar .ui.menu {
+  box-shadow: none; /* Remove box shadow if present */
+}

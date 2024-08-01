@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Cardio Blast",
+    "duration": "30 minutes",
+    "caloriesBurned": 300,
+    "bodyPart": "Full Body",
+    "image": "https://example.com/images/cardio_blast.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Strength Training",
+    "duration": "45 minutes",
+    "caloriesBurned": 400,
+    "bodyPart": "Upper Body",
+    "image": "https://example.com/images/strength_training.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Yoga Flow",
+    "duration": "60 minutes",
+    "caloriesBurned": 200,
+    "bodyPart": "Core",
+    "image": "https://example.com/images/yoga_flow.jpg"
+  },
+  {
+    "id": 4,
+    "name": "HIIT",
+    "duration": "30 minutes",
+    "caloriesBurned": 350,
+    "bodyPart": "Full Body",
+    "image": "https://example.com/images/hiit.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pilates",
+    "duration": "50 minutes",
+    "caloriesBurned": 250,
+    "bodyPart": "Core",
+    "image": "https://example.com/images/pilates.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Leg Day",
+    "duration": "40 minutes",
+    "caloriesBurned": 300,
+    "bodyPart": "Lower Body",
+    "image": "https://example.com/images/leg_day.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Boxing",
+    "duration": "45 minutes",
+    "caloriesBurned": 400,
+    "bodyPart": "Upper Body",
+    "image": "https://example.com/images/boxing.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Spin Class",
+    "duration": "50 minutes",
+    "caloriesBurned": 500,
+    "bodyPart": "Lower Body",
+    "image": "https://example.com/images/spin_class.jpg"
+  }
+]

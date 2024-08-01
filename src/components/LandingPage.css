@@ -1,0 +1,35 @@
+/* src/components/LandingPage.css */
+.ui.stackable.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ui.stackable.grid .column {
+  padding: 0;
+}
+
+.ui.stackable.grid .eight.wide.column img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.left-image {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover; /* Ensure the image fits without distortion */
+}
+
+.right-column img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Ensure images fit without distortion */
+}
+
+.right-column img + img {
+  margin-top: 10px; /* Space between stacked images */
+}
+
+.ui.container {
+  padding: 0;
+}
